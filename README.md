@@ -7,8 +7,8 @@
 ## Informações necessárias ⌨️
 
 Projeto extra realizado durante o evento Next Level Week da Rocketseat. 
-<br>
-Construído com objetivo de trocar informações sobre preferências de filmes e séries. 
+<br> 
+Construído para trocar informações sobre preferências de séries e filmes. 
 <br>
 
 ## Tecnologias utilizadas ⚙️
